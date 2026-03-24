@@ -16,6 +16,6 @@ A Python-based scheduling application that uses a **Heap Queue** for efficient t
 ![Dashboard Screenshot](screenshot.png)
 
 ## Setup
-1. Clone the repo: `git clone [your-link-here]`
+1. Clone the repo: `git clone [https://github.com/convincenemapare/priority-scheduler-pro]`
 2. Install dependencies: `pip install pandas`
 3. Run the app: `python main.py`
