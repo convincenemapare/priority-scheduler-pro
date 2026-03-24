@@ -13,7 +13,7 @@ A Python-based scheduling application that uses a **Heap Queue** for efficient t
 * **Analytics**: Power BI Desktop Desktop
 
 ## Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/convincenemapare/priority-scheduler-pro`
